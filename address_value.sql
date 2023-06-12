@@ -19,7 +19,7 @@ INSERT INTO address VALUES(
 
     '200',
     '04',
-    '23',
+    '20',
 
     NOW()
 );
@@ -31,8 +31,8 @@ INSERT INTO address VALUES(
     '',
     'mokawa',
 
-    "754 235-0409",
-    'lorenzomokawa@outlook.com',
+    "235-0000",
+    '12334@gmail.com',
 
     '308 Negra Arroyo Ln',
     '',
@@ -42,7 +42,7 @@ INSERT INTO address VALUES(
     'United States',
 
     '2004',
-    '06',
+    '04',
     '8',
     NOW()    
 );
