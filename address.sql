@@ -17,9 +17,9 @@ CREATE TABLE address (
     zip VARCHAR(5),
     country VARCHAR(50),
 
-    birthyear INT(4),
-    birthmonth INT(2),
-    birthdate INT(2),
+    birthyear INT,
+    birthmonth INT,
+    birthdate INT,
 
     created_at DATETIME
 );
